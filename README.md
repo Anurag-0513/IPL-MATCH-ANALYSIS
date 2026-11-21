@@ -52,4 +52,5 @@ The supplied file `IPL Match Analysis (2024–2026).pdf` is the source for the v
 
 ## 9. Conclusion
 This project demonstrates how basic Python programming can be used to read, organise, compare and display sports statistics from CSV files.
+
 AUTHOR-ANURAG SINGH
