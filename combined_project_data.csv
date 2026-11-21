@@ -1,0 +1,61 @@
+﻿dataset,season,match_type,scorecard,venue,winner,result,player_of_match,runner_up,orange_cap_winner,orange_cap_runs,purple_cap_winner,purple_cap_wickets,total_fours,total_sixes,total_boundaries,category,rank,player,value
+Playoff Results,2024,Qualifier 1,SRH 159; KKR 164/2,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,KKR won by 8 wickets,Mitchell Starc (KKR),,,,,,,,,,,,
+Playoff Results,2024,Eliminator,RCB 172/8; RR 174/6,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,RR won by 4 wickets,Ravichandran Ashwin (RR),,,,,,,,,,,,
+Playoff Results,2024,Qualifier 2,SRH 175/9; RR 139/7,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,SRH won by 36 runs,Shahbaz Ahmed (SRH),,,,,,,,,,,,
+Playoff Results,2024,Final,SRH 113; KKR 114/2,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,KKR won by 8 wickets,Mitchell Starc (KKR),,,,,,,,,,,,
+Playoff Results,2025,Qualifier 1,PBKS 101; RCB 106/2,"Maharaja Yadavindra Singh Stadium, Mullanpur",Royal Challengers Bengaluru,RCB won by 8 wickets,Josh Hazlewood (RCB),,,,,,,,,,,,
+Playoff Results,2025,Eliminator,MI 228/5; GT 208/6,"Maharaja Yadavindra Singh Stadium, Mullanpur",Mumbai Indians,MI won by 20 runs,Rohit Sharma (MI),,,,,,,,,,,,
+Playoff Results,2025,Qualifier 2,MI 203/6; PBKS 207/5,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,PBKS won by 5 wickets,Shreyas Iyer (PBKS),,,,,,,,,,,,
+Playoff Results,2025,Final,RCB 190/9; PBKS 184/7,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,RCB won by 6 runs,Krunal Pandya (RCB),,,,,,,,,,,,
+Playoff Results,2026,Qualifier 1,RCB 254/5; GT 162,"HPCA Stadium, Dharamshala",Royal Challengers Bengaluru,RCB won by 92 runs,Rajat Patidar (RCB),,,,,,,,,,,,
+Playoff Results,2026,Eliminator,RR 243/8; SRH 196,"Maharaja Yadavindra Singh Stadium, New Chandigarh",Rajasthan Royals,RR won by 47 runs,Vaibhav Sooryavanshi (RR),,,,,,,,,,,,
+Playoff Results,2026,Qualifier 2,RR 214/6; GT 219/3,"Maharaja Yadavindra Singh Stadium, New Chandigarh",Gujarat Titans,GT won by 7 wickets,Shubman Gill (GT),,,,,,,,,,,,
+Playoff Results,2026,Final,GT 155/8; RCB 161/5,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,RCB won by 5 wickets,Virat Kohli (RCB),,,,,,,,,,,,
+Season Summary,2024,,,,Kolkata Knight Riders,,,Sunrisers Hyderabad,Virat Kohli (RCB),741.0,Harshal Patel (PBKS),24.0,2174.0,1260.0,3434.0,,,,
+Season Summary,2025,,,,Royal Challengers Bengaluru,,,Punjab Kings,Sai Sudharsan (GT),759.0,Prasidh Krishna (GT),25.0,2245.0,1294.0,3539.0,,,,
+Season Summary,2026,,,,Royal Challengers Bengaluru,,,Gujarat Titans,Vaibhav Sooryavanshi (RR),776.0,Kagiso Rabada (GT),29.0,2332.0,1426.0,3758.0,,,,
+Top Performers,2024,,,,,,,,,,,,,,,Runs,1.0,Virat Kohli (RCB),741.0
+Top Performers,2024,,,,,,,,,,,,,,,Runs,2.0,Ruturaj Gaikwad (CSK),583.0
+Top Performers,2024,,,,,,,,,,,,,,,Runs,3.0,Riyan Parag (RR),573.0
+Top Performers,2024,,,,,,,,,,,,,,,Runs,4.0,Travis Head (SRH),567.0
+Top Performers,2024,,,,,,,,,,,,,,,Runs,5.0,Sanju Samson (RR),531.0
+Top Performers,2024,,,,,,,,,,,,,,,Wickets,1.0,Harshal Patel (PBKS),24.0
+Top Performers,2024,,,,,,,,,,,,,,,Wickets,2.0,Varun Chakaravarthy (KKR),21.0
+Top Performers,2024,,,,,,,,,,,,,,,Wickets,3.0,Jasprit Bumrah (MI),20.0
+Top Performers,2024,,,,,,,,,,,,,,,Wickets,4.0,T Natarajan (SRH),19.0
+Top Performers,2024,,,,,,,,,,,,,,,Wickets,5.0,Harshit Rana (KKR),19.0
+Top Performers,2024,,,,,,,,,,,,,,,Sixes,1.0,Abhishek Sharma (SRH),42.0
+Top Performers,2024,,,,,,,,,,,,,,,Sixes,2.0,Virat Kohli (RCB),38.0
+Top Performers,2024,,,,,,,,,,,,,,,Sixes,3.0,Heinrich Klaasen (SRH),38.0
+Top Performers,2024,,,,,,,,,,,,,,,Sixes,4.0,Nicholas Pooran (LSG),36.0
+Top Performers,2024,,,,,,,,,,,,,,,Sixes,5.0,Riyan Parag (RR),33.0
+Top Performers,2025,,,,,,,,,,,,,,,Runs,1.0,Sai Sudharsan (GT),759.0
+Top Performers,2025,,,,,,,,,,,,,,,Runs,2.0,Suryakumar Yadav (MI),717.0
+Top Performers,2025,,,,,,,,,,,,,,,Runs,3.0,Virat Kohli (RCB),657.0
+Top Performers,2025,,,,,,,,,,,,,,,Runs,4.0,Shubman Gill (GT),650.0
+Top Performers,2025,,,,,,,,,,,,,,,Runs,5.0,Mitchell Marsh (LSG),627.0
+Top Performers,2025,,,,,,,,,,,,,,,Wickets,1.0,Prasidh Krishna (GT),25.0
+Top Performers,2025,,,,,,,,,,,,,,,Wickets,2.0,Noor Ahmad (CSK),24.0
+Top Performers,2025,,,,,,,,,,,,,,,Wickets,3.0,Josh Hazlewood (RCB),22.0
+Top Performers,2025,,,,,,,,,,,,,,,Wickets,4.0,Trent Boult (MI),22.0
+Top Performers,2025,,,,,,,,,,,,,,,Wickets,5.0,Arshdeep Singh (PBKS),21.0
+Top Performers,2025,,,,,,,,,,,,,,,Sixes,1.0,Nicholas Pooran (LSG),40.0
+Top Performers,2025,,,,,,,,,,,,,,,Sixes,2.0,Shreyas Iyer (PBKS),39.0
+Top Performers,2025,,,,,,,,,,,,,,,Sixes,3.0,Suryakumar Yadav (MI),38.0
+Top Performers,2025,,,,,,,,,,,,,,,Sixes,4.0,Mitchell Marsh (LSG),37.0
+Top Performers,2025,,,,,,,,,,,,,,,Sixes,5.0,Prabhsimran Singh (PBKS),30.0
+Top Performers,2026,,,,,,,,,,,,,,,Runs,1.0,Vaibhav Sooryavanshi (RR),776.0
+Top Performers,2026,,,,,,,,,,,,,,,Runs,2.0,Shubman Gill (GT),732.0
+Top Performers,2026,,,,,,,,,,,,,,,Runs,3.0,Sai Sudharsan (GT),722.0
+Top Performers,2026,,,,,,,,,,,,,,,Runs,4.0,Virat Kohli (RCB),675.0
+Top Performers,2026,,,,,,,,,,,,,,,Runs,5.0,Heinrich Klaasen (SRH),624.0
+Top Performers,2026,,,,,,,,,,,,,,,Wickets,1.0,Kagiso Rabada (GT),29.0
+Top Performers,2026,,,,,,,,,,,,,,,Wickets,2.0,Bhuvneshwar Kumar (RCB),28.0
+Top Performers,2026,,,,,,,,,,,,,,,Wickets,3.0,Jofra Archer (RR),25.0
+Top Performers,2026,,,,,,,,,,,,,,,Wickets,4.0,Rashid Khan (GT),21.0
+Top Performers,2026,,,,,,,,,,,,,,,Wickets,5.0,Anshul Kamboj (CSK),21.0
+Top Performers,2026,,,,,,,,,,,,,,,Sixes,1.0,Vaibhav Sooryavanshi (RR),72.0
+Top Performers,2026,,,,,,,,,,,,,,,Sixes,2.0,Abhishek Sharma (SRH),43.0
+Top Performers,2026,,,,,,,,,,,,,,,Sixes,3.0,Rajat Patidar (RCB),42.0
+Top Performers,2026,,,,,,,,,,,,,,,Sixes,4.0,Ryan Rickelton (MI),38.0
+Top Performers,2026,,,,,,,,,,,,,,,Sixes,5.0,Mitchell Marsh (LSG),36.0
